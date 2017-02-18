@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TacoPronto</string>
+    <string name="TacoPronto">Taco Pronto</string>
+    <string name="address">123 Euclid Ave</string>
+    <string name="phone">Phone : 5556355527</string>
+    <string name="size">Size</string>
+    <string name="tortilla">Tortilla</string>
+    <string name="Fillngs">Fillngs</string>
+    <string name="Beverage">Beverage</string>
+    <color name="color2">#009688</color>
+    <string name="beef">beef</string>
+</resources>
